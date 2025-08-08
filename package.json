@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "ronney otieno",
+	"description": "this project is for learning backend with node and express from freecodecamp",
+	"keywords": ["node", "express","freecodecamp","learning", "backend"],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
